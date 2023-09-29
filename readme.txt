@@ -1,1 +1,2 @@
-Life is brutal updated 1.7
+Updated readme 2.2.4
+
